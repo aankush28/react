@@ -1,6 +1,7 @@
 import React from 'react';
 function a(){
-    alert("we are contact you son");
+    alert("we are contact you soon...
+");
 }
 function Contact(){
     return(
